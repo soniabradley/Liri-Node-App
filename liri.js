@@ -1,11 +1,9 @@
 
 var keys = require('./keys1.js')
-
+ 
 var Twitter = require('twitter');
 
 var spotify = require('spotify');
-	// id: 75d78305ec7947799245353b8bd3abde
-	// secret: 60f9bb4d6be7402096c7119f07a4d782
 
 var request = require('request');
 
